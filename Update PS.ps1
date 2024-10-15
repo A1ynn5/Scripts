@@ -1,0 +1,1 @@
+winget upgrade -q Microsoft.Powershell --log --accept-package-agreements --accept-source-agreements --authentication-mode silent --disable-interactivity --wait
